@@ -8,7 +8,8 @@ Data Collection:
 
 I pulled the data directly from a tutorial I went through with CSDOJO. The csv file is inlcuded in my repo, named "countries.csv"
 
-Data-Prep / Cleaning
+Data-Prep / Cleaning:
+
 
 
 Exploration / Planning:
