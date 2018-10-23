@@ -2,6 +2,7 @@
 A walkthrough of the Data Analysis Lifecycle, including visualizations. Used in conjunction with US Census data.
 
 Discovery / Requirements
+
     - I decided to run through the lifecycle and create visualizations off of the total population of people in the United States and China. Time periods included for this cycle should be the beginning of time to now, to see which country had the largest population every year.
 
 Data Collection:
